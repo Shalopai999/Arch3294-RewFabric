@@ -12,7 +12,7 @@ import Classes.Rewards.PhilosophersStoneFabric;
 import Classes.Rewards.SapphireFabric;
 import Classes.Rewards.StoneFabric;
 
-public class App { 
+public class App {
     public static void main(String[] args) throws Exception {
         ItemGenerator fab1 = new GoldFabric();
         fab1.openReward();
